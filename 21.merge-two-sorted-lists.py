@@ -59,5 +59,3 @@ class Solution:
                 l2 = l2.next
             res = res.next
         return current
-
-        
